@@ -1,8 +1,8 @@
 ### Hi there 👋
-<h1 align="center">Hi , I'm Moataz Hassanein</h1>
+<h1 align="center">I'm Moataz Hassanein</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
-- 🔭 I’m currently looking for a position **as front end developer**
+- 🔭 I’m currently looking for a position **Passionate developer specializing in Web Development. Committed to creating elegant and efficient solutions. Collaborative mindset with a talent for tackling complex problems. Constantly exploring new technologies and embracing continuous learning. Let's build something amazing together!**
 
 - 🌱 I’m currently learning **Next.js**
 
